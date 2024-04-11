@@ -1,1 +1,5 @@
-.cabecalho{background-color: aquamarine;}
+.cabecalho{background-color: aquamarine;
+display: flex;
+padding: 30px;
+font-size: 24PX;
+justify-content: space-around;}
