@@ -1,5 +1,20 @@
 .cabecalho{background-color: aquamarine;
 display: flex;
 padding: 30px;
-font-size: 24PX;
-justify-content: space-around;}
+font-size: 24px;
+justify-content: space-around;
+
+}
+
+.cabecalho-imagem{ 
+    width: 100px;
+    height: 100px;
+}
+
+.cabecalho-item{ 
+    display: inline-block; 
+    padding: 0 100px;
+    text-decoration: underline;
+
+}
+
